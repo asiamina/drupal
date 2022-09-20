@@ -1,9 +1,9 @@
 ## Course Update
 (May 2022) Analysis of digital forensics concepts required for the project and creating modules for the content.
 
-(June 2022) Practical implementation of project work on a local computer and creating a web interface for the whole content.
+(June 2022) Practical implementation of project work on a local computer and creating a web interface for the whole content through Drupal content management system.
 
-(July 2022) Tested the website and deployed on github. Upon feedback from Professor, Educator and Students, enhanced few sections in each module.
+(July 2022) Tested the website and deployed on xampp (web server). Upon feedback from Professor, Educator and Students, enhanced few sections in each module.
 
 # Instructional Materials for the Digital Forensics Course
 ## Texas Tech University, Computer Science Department 
@@ -39,6 +39,10 @@ The tentative topics and tools to be covered include:
 
 ## Documentation on Setup of this website with files available in this repository
 Procedure with all steps involved in setting up the website are provided in a document "TTU_DrupalSite_SetupDocument_v1.pdf" present in this repository for reference.
+
+## Understanding the files in repository
+For Drupal v7.90, download the zipped file from this github repository, extract the files into a folder with name drupal790 and place them it inside folder C:\xampp\htdocs
+For Drupal v9.42, download the individual zipped files, extract and combine them into a single folder with name as drupal942 and place it inside folder C:\xampp\htdocs
 
 ## Additional resources
 https://www.drupal.org/
